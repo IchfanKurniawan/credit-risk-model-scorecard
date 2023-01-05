@@ -3,13 +3,13 @@ Build a predictive model to understand factors that influence the credit default
 
 
 **Status**: Done  
-**Jupyter notebook**:here  
+**Jupyter notebook**: here  
 This project is rework from my previous project here.
 
 ---
 ---
 
-#### Summary   
+## Summary   
 
 1. Loan credit risk model is built using maching learning model Logistic Regression.  
 2. The final model performances are as follow:
